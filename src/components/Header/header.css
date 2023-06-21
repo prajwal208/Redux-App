@@ -1,0 +1,51 @@
+.header-nav{
+      background-color: rgb(44, 42, 42);
+      width: 100%;
+      color: White;
+      display: flex;
+      padding: 10px;
+      justify-content: space-between;
+  }
+
+  header{
+      margin-top: 9px;
+      font-size: 18px;
+      font-weight: 600;
+      cursor: pointer;
+  }
+
+  ul{
+      display: flex;
+      padding: 5px;
+  }
+
+  li{
+      padding-left: 30px;
+      list-style: none;
+      font-size: 18px;
+      cursor: pointer;
+      padding-top: 10px;
+  }
+  li:hover{
+      color: wheat;
+  }
+
+  .logo{
+      width: 45px;
+      height: 45px;
+      margin-left: 20px;
+      cursor: pointer;
+  }
+
+  input{
+      width: 600px;
+      padding: 8px;
+      outline: none;
+      margin-top: 5px;
+  }
+  .btn-search{
+      width: 100px;
+      margin-right: 100px;
+      padding: 8px;
+      cursor: pointer;
+  }
